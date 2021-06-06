@@ -1,0 +1,7 @@
+body {
+  overflow: auto;
+}
+
+body.menu-expanded {
+  overflow: hidden;
+}
